@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\uni stuff\\comsci stuff\\OO programing\\MSYS2\\home\\dj444\\ShapeDrawer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED553C2D-F6C9-438A-9883-DFA66E3D901C}|ShapeDrawer2.csproj|c:\\uni stuff\\comsci stuff\\oo programing\\msys2\\home\\dj444\\shapedrawer2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED553C2D-F6C9-438A-9883-DFA66E3D901C}|ShapeDrawer2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED553C2D-F6C9-438A-9883-DFA66E3D901C}|ShapeDrawer2.csproj|c:\\uni stuff\\comsci stuff\\oo programing\\msys2\\home\\dj444\\shapedrawer2\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED553C2D-F6C9-438A-9883-DFA66E3D901C}|ShapeDrawer2.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED553C2D-F6C9-438A-9883-DFA66E3D901C}|ShapeDrawer2.csproj|c:\\uni stuff\\comsci stuff\\oo programing\\msys2\\home\\dj444\\shapedrawer2\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED553C2D-F6C9-438A-9883-DFA66E3D901C}|ShapeDrawer2.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "C:\\uni stuff\\comsci stuff\\OO programing\\MSYS2\\home\\dj444\\ShapeDrawer2\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "C:\\uni stuff\\comsci stuff\\OO programing\\MSYS2\\home\\dj444\\ShapeDrawer2\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:44:50.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\uni stuff\\comsci stuff\\OO programing\\MSYS2\\home\\dj444\\ShapeDrawer2\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "C:\\uni stuff\\comsci stuff\\OO programing\\MSYS2\\home\\dj444\\ShapeDrawer2\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:42:39.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\uni stuff\\comsci stuff\\OO programing\\MSYS2\\home\\dj444\\ShapeDrawer2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\uni stuff\\comsci stuff\\OO programing\\MSYS2\\home\\dj444\\ShapeDrawer2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T12:41:25.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

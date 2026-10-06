@@ -1,0 +1,14 @@
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\CouterTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\CouterTask.AssemblyInfoInputs.cache
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\CouterTask.AssemblyInfo.cs
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\CouterTask.csproj.CoreCompileInputs.cache
+C:\Users\dj444\source\repos\CouterTask\CouterTask\bin\Debug\net8.0\CouterTask.exe
+C:\Users\dj444\source\repos\CouterTask\CouterTask\bin\Debug\net8.0\CouterTask.deps.json
+C:\Users\dj444\source\repos\CouterTask\CouterTask\bin\Debug\net8.0\CouterTask.runtimeconfig.json
+C:\Users\dj444\source\repos\CouterTask\CouterTask\bin\Debug\net8.0\CouterTask.dll
+C:\Users\dj444\source\repos\CouterTask\CouterTask\bin\Debug\net8.0\CouterTask.pdb
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\CouterTask.dll
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\refint\CouterTask.dll
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\CouterTask.pdb
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\CouterTask.genruntimeconfig.cache
+C:\Users\dj444\source\repos\CouterTask\CouterTask\obj\Debug\net8.0\ref\CouterTask.dll

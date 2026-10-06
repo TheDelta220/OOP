@@ -1,0 +1,6 @@
+C:\Users\dj444\source\repos\QueueApplication\Test_Queue\bin\Debug\net8.0\CoverletSourceRootsMapping_TestQueue
+C:\Users\dj444\source\repos\QueueApplication\Test_Queue\obj\Debug\net8.0\TestQueue.csproj.AssemblyReference.cache
+C:\Users\dj444\source\repos\QueueApplication\Test_Queue\obj\Debug\net8.0\TestQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj444\source\repos\QueueApplication\Test_Queue\obj\Debug\net8.0\TestQueue.AssemblyInfoInputs.cache
+C:\Users\dj444\source\repos\QueueApplication\Test_Queue\obj\Debug\net8.0\TestQueue.AssemblyInfo.cs
+C:\Users\dj444\source\repos\QueueApplication\Test_Queue\obj\Debug\net8.0\TestQueue.csproj.CoreCompileInputs.cache

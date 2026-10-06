@@ -1,0 +1,14 @@
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfoInputs.cache
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.AssemblyInfo.cs
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.csproj.CoreCompileInputs.cache
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.exe
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.deps.json
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.runtimeconfig.json
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.dll
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\bin\Debug\net8.0\QueueApplication.pdb
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.dll
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\refint\QueueApplication.dll
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.pdb
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\QueueApplication.genruntimeconfig.cache
+C:\Users\dj444\source\repos\QueueApplication\QueueApplication\obj\Debug\net8.0\ref\QueueApplication.dll

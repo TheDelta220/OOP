@@ -1,0 +1,111 @@
+using Swin_Adventure3;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Xml.Linq;
+using NUnit.Framework;
+
+namespace Tests
+{
+    
+        public class LookCommandTest
+        {
+
+            Player player, player1;
+            Bag bag;
+
+            Item gem = new Item(new string[] { "gem" }, "a gem", "This is a gem");
+            Item shovel = new Item(new string[] { "shovel" }, "a shovel", "This is a shovel");
+            Item diamond = new Item(new string[] { "diamond" }, "a diamond", "This is a diamond");
+            LookCommand look = new LookCommand();
+            [SetUp]
+            public void Setup()
+            {
+
+                player = new Player("Anh", "Anh's Player");
+                bag = new Bag(new string[] { "bag" },
+                    $"Anh's bag",
+                    $"This is {player.Name} bag");
+                player.Inventory.Put(bag);
+
+
+                player1 = new Player("Anh", "Anh's Player");
+
+
+            }
+
+            [Test]
+            public void TestLookAtMe()
+            {
+                string Output = look.Execute(player, new string[] { "look", "at", "inventory" });
+                string exp = $"You are {player.Name}, you are carrying\n{player.Inventory.ItemList}";
+                
+            Assert.That(exp, Is.EqualTo(Output));
+            }
+
+            [Test]
+            public void TestLookAtGem()
+            {
+                player.Inventory.Put(gem);
+
+                string Output = look.Execute(player, new string[] { "look", "at", "gem" });
+                string exp = $"{gem.FullDescription}";
+                Assert.That(exp, Is.EqualTo(Output));
+            
+        }
+
+            [Test]
+            public void TestLookAtUnk()
+            {
+                string Output = look.Execute(player, new string[] { "look", "at", "gem" });
+                string exp = $"Couldn't find gem";
+                Assert.That(exp, Is.EqualTo(Output));
+            }
+
+            [Test]
+            public void TestLookAtGemInMe()
+            {
+                player.Inventory.Put(gem);
+                string Output = look.Execute(player, new string[] { "look", "at", "gem", "in", "me" });
+                string exp = $"{gem.FullDescription}";
+                Assert.That(exp, Is.EqualTo(Output));
+            }
+
+            [Test]
+            public void TestLookAtGemInBag()
+            {
+                bag.Inventory.Put(gem);
+                string Output = look.Execute(player, new string[] { "look", "at", "gem", "in", "bag" });
+                string exp = $"{gem.FullDescription}";
+                Assert.That(exp, Is.EqualTo(Output));
+            }
+
+            [Test]
+            public void TestLookAtNoGemInBag()
+            {
+                bag.Inventory.Put(gem);
+                string Output = look.Execute(player, new string[] { "look", "at", "iron", "in", $"bag" });
+                string exp = $"Couldn't find iron";
+                Assert.That(exp, Is.EqualTo(Output));
+            }
+
+            [Test]
+            public void TestLookAtGemInNoBag()
+            {
+                bag.Inventory.Put(gem);
+                player1.Inventory.Put(bag);
+                string Output = look.Execute(player1, new string[] { "look", "at", "gem", "in", $"{player.Name}" });
+                string exp = $"Couldn't find gem";
+                Assert.That(exp, Is.EqualTo(Output));
+            }
+
+            [Test]
+            public void TestInvalidLook()
+            {
+                //Assert.That((look.Execute(player1, new string[] { "look", "around" }), Is.EqualTo("Error in look input.")));
+                //Assert.AreEqual(look.Execute(player1, new string[] { "find", "gem" }), "Error in look input.");
+            }
+
+        }
+    }

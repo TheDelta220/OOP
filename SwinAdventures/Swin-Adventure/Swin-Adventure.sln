@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swin-Adventure", "ConsoleApp1\Swin-Adventure.csproj", "{114CB0B3-644F-464B-A03E-953DA25BC23B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentifiableObjectTest", "IdentifiableObjectTest\IdentifiableObjectTest.csproj", "{DABA6F03-3CB1-40CF-86B6-2492C6E637FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114CB0B3-644F-464B-A03E-953DA25BC23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114CB0B3-644F-464B-A03E-953DA25BC23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114CB0B3-644F-464B-A03E-953DA25BC23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114CB0B3-644F-464B-A03E-953DA25BC23B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABA6F03-3CB1-40CF-86B6-2492C6E637FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABA6F03-3CB1-40CF-86B6-2492C6E637FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABA6F03-3CB1-40CF-86B6-2492C6E637FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABA6F03-3CB1-40CF-86B6-2492C6E637FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {491CBC42-5AE8-4EE7-BA94-1436BA37B444}
+	EndGlobalSection
+EndGlobal

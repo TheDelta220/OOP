@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4453AD6C-659E-4592-AD06-39CD3C9049D3}|Test_Queue\\Test_Queue.csproj|c:\\users\\dj444\\source\\repos\\queueapplication\\test_queue\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4453AD6C-659E-4592-AD06-39CD3C9049D3}|Test_Queue\\Test_Queue.csproj|solutionrelative:test_queue\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4453AD6C-659E-4592-AD06-39CD3C9049D3}|Test_Queue\\TestQueue.csproj|c:\\users\\dj444\\source\\repos\\queueapplication\\test_queue\\testqueue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4453AD6C-659E-4592-AD06-39CD3C9049D3}|Test_Queue\\TestQueue.csproj|solutionrelative:test_queue\\testqueue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF045D5C-0027-418B-9755-B69673DB8BA0}|QueueApplication\\QueueApplication.csproj|c:\\users\\dj444\\source\\repos\\queueapplication\\queueapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF045D5C-0027-418B-9755-B69673DB8BA0}|QueueApplication\\QueueApplication.csproj|solutionrelative:queueapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF045D5C-0027-418B-9755-B69673DB8BA0}|QueueApplication\\QueueApplication.csproj|c:\\users\\dj444\\source\\repos\\queueapplication\\queueapplication\\integerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF045D5C-0027-418B-9755-B69673DB8BA0}|QueueApplication\\QueueApplication.csproj|solutionrelative:queueapplication\\integerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestQueue.csproj",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\Test_Queue\\TestQueue.csproj",
+              "RelativeDocumentMoniker": "Test_Queue\\TestQueue.csproj",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\Test_Queue\\TestQueue.csproj",
+              "RelativeToolTip": "Test_Queue\\TestQueue.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T03:02:21.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\Test_Queue\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Test_Queue\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\Test_Queue\\UnitTest1.cs",
+              "RelativeToolTip": "Test_Queue\\UnitTest1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T03:01:53.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntegerQueue.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\QueueApplication\\IntegerQueue.cs",
+              "RelativeDocumentMoniker": "QueueApplication\\IntegerQueue.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\QueueApplication\\IntegerQueue.cs",
+              "RelativeToolTip": "QueueApplication\\IntegerQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:16:55.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\QueueApplication\\Program.cs",
+              "RelativeDocumentMoniker": "QueueApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\QueueApplication\\QueueApplication\\Program.cs",
+              "RelativeToolTip": "QueueApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:14:20.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dj444\\source\\repos\\Swin-Adventure1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E05F474-6813-4068-B971-B30019D45848}|IdentifiableObjectTest\\IdentifiableObjectTest.csproj|c:\\users\\dj444\\source\\repos\\swin-adventure1.2\\identifiableobjecttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E05F474-6813-4068-B971-B30019D45848}|IdentifiableObjectTest\\IdentifiableObjectTest.csproj|solutionrelative:identifiableobjecttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6430E96A-105A-4611-AAD7-3D4F94F06986}|Swin-Adventure1.2\\Swin-Adventure1.2.csproj|c:\\users\\dj444\\source\\repos\\swin-adventure1.2\\swin-adventure1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6430E96A-105A-4611-AAD7-3D4F94F06986}|Swin-Adventure1.2\\Swin-Adventure1.2.csproj|solutionrelative:swin-adventure1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6430E96A-105A-4611-AAD7-3D4F94F06986}|Swin-Adventure1.2\\Swin-Adventure1.2.csproj|c:\\users\\dj444\\source\\repos\\swin-adventure1.2\\swin-adventure1.2\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6430E96A-105A-4611-AAD7-3D4F94F06986}|Swin-Adventure1.2\\Swin-Adventure1.2.csproj|solutionrelative:swin-adventure1.2\\identifiableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentifiableObject.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\Swin-Adventure1.2\\Swin-Adventure1.2\\IdentifiableObject.cs",
+              "RelativeDocumentMoniker": "Swin-Adventure1.2\\IdentifiableObject.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\Swin-Adventure1.2\\Swin-Adventure1.2\\IdentifiableObject.cs",
+              "RelativeToolTip": "Swin-Adventure1.2\\IdentifiableObject.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:31:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\Swin-Adventure1.2\\IdentifiableObjectTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "IdentifiableObjectTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\Swin-Adventure1.2\\IdentifiableObjectTest\\UnitTest1.cs",
+              "RelativeToolTip": "IdentifiableObjectTest\\UnitTest1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:32:29.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\Swin-Adventure1.2\\Swin-Adventure1.2\\Program.cs",
+              "RelativeDocumentMoniker": "Swin-Adventure1.2\\Program.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\Swin-Adventure1.2\\Swin-Adventure1.2\\Program.cs",
+              "RelativeToolTip": "Swin-Adventure1.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:30:39.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

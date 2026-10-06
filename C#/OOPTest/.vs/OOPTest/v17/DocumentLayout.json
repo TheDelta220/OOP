@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dj444\\source\\repos\\OOPTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|c:\\users\\dj444\\source\\repos\\ooptest\\ooptest\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\thing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|c:\\users\\dj444\\source\\repos\\ooptest\\ooptest\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|c:\\users\\dj444\\source\\repos\\ooptest\\ooptest\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\filesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|c:\\users\\dj444\\source\\repos\\ooptest\\ooptest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|c:\\users\\dj444\\source\\repos\\ooptest\\ooptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34E1091-AC64-4932-8A1F-91B42287C353}|OOPTest\\OOPTest.csproj|solutionrelative:ooptest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\File.cs",
+              "RelativeDocumentMoniker": "OOPTest\\File.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\File.cs",
+              "RelativeToolTip": "OOPTest\\File.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:05:37.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\Program.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Program.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\Program.cs",
+              "RelativeToolTip": "OOPTest\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T05:32:35.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileSystem.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\FileSystem.cs",
+              "RelativeDocumentMoniker": "OOPTest\\FileSystem.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\FileSystem.cs",
+              "RelativeToolTip": "OOPTest\\FileSystem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:05:36.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Thing.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\Thing.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Thing.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\Thing.cs",
+              "RelativeToolTip": "OOPTest\\Thing.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:10:44.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Folder.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\Folder.cs",
+              "RelativeDocumentMoniker": "OOPTest\\Folder.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\OOPTest\\OOPTest\\Folder.cs",
+              "RelativeToolTip": "OOPTest\\Folder.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:05:37.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

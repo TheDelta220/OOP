@@ -1,0 +1,14 @@
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\bin\Debug\net8.0\Swin-Adventure3.2.exe
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\bin\Debug\net8.0\Swin-Adventure3.2.deps.json
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\bin\Debug\net8.0\Swin-Adventure3.2.runtimeconfig.json
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\bin\Debug\net8.0\Swin-Adventure3.2.dll
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\bin\Debug\net8.0\Swin-Adventure3.2.pdb
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\Swin-Adventure3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\Swin-Adventure3.2.AssemblyInfoInputs.cache
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\Swin-Adventure3.2.AssemblyInfo.cs
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\Swin-Adventure3.2.csproj.CoreCompileInputs.cache
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\Swin-Adventure3.2.dll
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\refint\Swin-Adventure3.2.dll
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\Swin-Adventure3.2.pdb
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\Swin-Adventure3.2.genruntimeconfig.cache
+C:\Users\dj444\source\repos\Swin-Adventure3.2\Swin-Adventure3.2\obj\Debug\net8.0\ref\Swin-Adventure3.2.dll

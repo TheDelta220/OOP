@@ -1,0 +1,28 @@
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\uni stuff\comsci stuff\OO programing\MSYS2\home\dj444\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.exe
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.deps.json
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.runtimeconfig.json
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.dll
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\bin\Debug\net8.0\ShapeDrawer.pdb
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfoInputs.cache
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.AssemblyInfo.cs
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.dll
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\refint\ShapeDrawer.dll
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.pdb
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\ShapeDrawer.genruntimeconfig.cache
+C:\uni stuff\1st year\OO programing\Shape Drawer\ShapeDrawer\obj\Debug\net8.0\ref\ShapeDrawer.dll

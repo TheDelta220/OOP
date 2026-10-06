@@ -1,0 +1,14 @@
+C:\Users\dj444\source\repos\OOPTest\OOPTest\bin\Debug\net8.0\OOPTest.exe
+C:\Users\dj444\source\repos\OOPTest\OOPTest\bin\Debug\net8.0\OOPTest.deps.json
+C:\Users\dj444\source\repos\OOPTest\OOPTest\bin\Debug\net8.0\OOPTest.runtimeconfig.json
+C:\Users\dj444\source\repos\OOPTest\OOPTest\bin\Debug\net8.0\OOPTest.dll
+C:\Users\dj444\source\repos\OOPTest\OOPTest\bin\Debug\net8.0\OOPTest.pdb
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\OOPTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\OOPTest.AssemblyInfoInputs.cache
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\OOPTest.AssemblyInfo.cs
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\OOPTest.csproj.CoreCompileInputs.cache
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\OOPTest.dll
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\refint\OOPTest.dll
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\OOPTest.pdb
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\OOPTest.genruntimeconfig.cache
+C:\Users\dj444\source\repos\OOPTest\OOPTest\obj\Debug\net8.0\ref\OOPTest.dll

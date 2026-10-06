@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dj444\\source\\repos\\CouterTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80380E-C1E5-482A-9AA3-145E27BDBA97}|CouterTask\\CouterTask.csproj|c:\\users\\dj444\\source\\repos\\coutertask\\coutertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC80380E-C1E5-482A-9AA3-145E27BDBA97}|CouterTask\\CouterTask.csproj|solutionrelative:coutertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80380E-C1E5-482A-9AA3-145E27BDBA97}|CouterTask\\CouterTask.csproj|c:\\users\\dj444\\source\\repos\\coutertask\\coutertask\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC80380E-C1E5-482A-9AA3-145E27BDBA97}|CouterTask\\CouterTask.csproj|solutionrelative:coutertask\\clock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80380E-C1E5-482A-9AA3-145E27BDBA97}|CouterTask\\CouterTask.csproj|c:\\users\\dj444\\source\\repos\\coutertask\\coutertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC80380E-C1E5-482A-9AA3-145E27BDBA97}|CouterTask\\CouterTask.csproj|solutionrelative:coutertask\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7676D07-D8A1-404B-ACE7-A1489697710C}|Clocktest\\Clocktest.csproj|c:\\users\\dj444\\source\\repos\\coutertask\\clocktest\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7676D07-D8A1-404B-ACE7-A1489697710C}|Clocktest\\Clocktest.csproj|solutionrelative:clocktest\\clocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7676D07-D8A1-404B-ACE7-A1489697710C}|Clocktest\\Clocktest.csproj|c:\\users\\dj444\\source\\repos\\coutertask\\clocktest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7676D07-D8A1-404B-ACE7-A1489697710C}|Clocktest\\Clocktest.csproj|solutionrelative:clocktest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7676D07-D8A1-404B-ACE7-A1489697710C}|Clocktest\\Clocktest.csproj|c:\\users\\dj444\\source\\repos\\coutertask\\clocktest\\clocktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7676D07-D8A1-404B-ACE7-A1489697710C}|Clocktest\\Clocktest.csproj|solutionrelative:clocktest\\clocktest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clocktest.csproj",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\CouterTask\\Clocktest\\Clocktest.csproj",
+              "RelativeDocumentMoniker": "Clocktest\\Clocktest.csproj",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\CouterTask\\Clocktest\\Clocktest.csproj",
+              "RelativeToolTip": "Clocktest\\Clocktest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T03:31:42.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClockTest.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\CouterTask\\Clocktest\\ClockTest.cs",
+              "RelativeDocumentMoniker": "Clocktest\\ClockTest.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\CouterTask\\Clocktest\\ClockTest.cs",
+              "RelativeToolTip": "Clocktest\\ClockTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:56:51.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\CouterTask\\Clocktest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Clocktest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\CouterTask\\Clocktest\\UnitTest1.cs",
+              "RelativeToolTip": "Clocktest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T02:52:57.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\CouterTask\\CouterTask\\Program.cs",
+              "RelativeDocumentMoniker": "CouterTask\\Program.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\CouterTask\\CouterTask\\Program.cs",
+              "RelativeToolTip": "CouterTask\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:36:12.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Clock.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\CouterTask\\CouterTask\\Clock.cs",
+              "RelativeDocumentMoniker": "CouterTask\\Clock.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\CouterTask\\CouterTask\\Clock.cs",
+              "RelativeToolTip": "CouterTask\\Clock.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:36:14.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\Users\\dj444\\source\\repos\\CouterTask\\CouterTask\\Counter.cs",
+              "RelativeDocumentMoniker": "CouterTask\\Counter.cs",
+              "ToolTip": "C:\\Users\\dj444\\source\\repos\\CouterTask\\CouterTask\\Counter.cs",
+              "RelativeToolTip": "CouterTask\\Counter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T08:36:13.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
